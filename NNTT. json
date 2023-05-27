@@ -4,26 +4,24 @@
 
 
 {
-         "name": "FREE-SG-01-AIS",
-         "url": "https://raw.githubusercontent.com/NaiTuner/SDAZX/main/%E0%B9%80%E0%B8%8B%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%9F%20Singapore-A.ovpn"
+         "name": "FREE--01-AIS",
+         "url": "https://raw.githubusercontent.com/Suriya2233/THTHTH/main/TH-A.ovpn"
       }
 ,
 {
-         "name": "FREE-SG-01-DTAC",
-         "url": "https://raw.githubusercontent.com/NaiTuner/SDAZX/main/%E0%B9%80%E0%B8%8B%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%9F%20Singapore-D.ovpn"
+         "name": "FREE--01-DTAC",
+         "url": "https://raw.githubusercontent.com/Suriya2233/THTHTH/main/TH-D.ovpn"
       }
 ,
 {
-         "name": "FREE-SG-01-TRUE",
-         "url": "https://raw.githubusercontent.com/NaiTuner/SDAZX/main/%E0%B9%80%E0%B8%8B%E0%B8%B4%E0%B8%A3%E0%B9%8C%E0%B8%9F%20Singapore-T.ovpn"
+         "name": "FREE--01-TRUE",
+         "url": "https://raw.githubusercontent.com/Suriya2233/THTHTH/main/TH-T.ovpn"
       }
 
 
 
    ],
 "message":"
-TUNER VPN
-
 🧸รองรับทุกการใช้งานทุกเครือข่าย
 เอไอเอส-ดีเทค-ทรูมูฟ
 ✅ใช้งานทั่วไป
