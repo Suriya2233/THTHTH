@@ -4,17 +4,17 @@
 
 
 {
-         "name": "FREE--01-AIS",
+         "name": "FREE-Thailand-AIS",
          "url": "https://raw.githubusercontent.com/Suriya2233/THTHTH/main/TH-A.ovpn"
       }
 ,
 {
-         "name": "FREE--01-DTAC",
+         "name": "FREE-Thailand-DTAC",
          "url": "https://raw.githubusercontent.com/Suriya2233/THTHTH/main/TH-D.ovpn"
       }
 ,
 {
-         "name": "FREE--01-TRUE",
+         "name": "FREE-Thailand-TRUE",
          "url": "https://raw.githubusercontent.com/Suriya2233/THTHTH/main/TH-T.ovpn"
       }
 
